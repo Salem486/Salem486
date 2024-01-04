@@ -4,7 +4,7 @@
 
 ### 🌱 About Me
 
-A Junior majoring in Computer Science.
+
 
 
 
